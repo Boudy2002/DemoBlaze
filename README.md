@@ -19,13 +19,17 @@ This project represents the **complete QA lifecycle** exactly as it would be per
 ---
 
 ## 📁 **Project Structure**
+
 /demoBlaze
+
     /JIRA migration
         BULK import.csv
         traceability.png
+
     /Regression Testing
         regression strategy.xlsx
         regression testing strategy.docx
+    
     /Release Management
         Release management proposal.pptx
         Release report.docx
